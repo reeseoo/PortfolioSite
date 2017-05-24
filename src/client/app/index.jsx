@@ -5,7 +5,7 @@ import SidebarComponent from './sidebarcomponent.jsx';
 
 class App extends React.Component {
   render () {
-    return <div> <SidebarComponent /> <p> Hello React!</p> <AwesomeComponent /></div>;
+    return <div> <SidebarComponent />  <AwesomeComponent /></div>;
   }
 }
 
