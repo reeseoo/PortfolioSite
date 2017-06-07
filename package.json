@@ -19,5 +19,8 @@
   "homepage": "https://github.com/reeseoo/reeseoo.github.io#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1"
+  },
+  "dependencies": {
+    "react-router": "^4.1.1"
   }
 }
